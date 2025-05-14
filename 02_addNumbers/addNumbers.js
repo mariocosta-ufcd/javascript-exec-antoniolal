@@ -4,10 +4,10 @@ function addNumbers() {
 
   let result;
 
-  result = a +b; 
+  result = a + b; 
 
   return result;
 }
 
-// Do not change this
+// Do not change this part
 module.exports = addNumbers;
